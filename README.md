@@ -12,9 +12,9 @@ Steps to run: -
 2) Create a folder 'data' in the project directory
 
 3) Download, unzip, and store the data files in the data folder 
-https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=departments.csv.zip -> data/departments.csv
-https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=products.csv.zip -> data/products.csv
-https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=order_products__prior.csv.zip -> data/order_products__prior.csv
+https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=departments.csv.zip -> data/departments.csv<br>
+https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=products.csv.zip -> data/products.csv<br>
+https://www.kaggle.com/c/instacart-market-basket-analysis/data?select=order_products__prior.csv.zip -> data/order_products__prior.csv<br>
 
 4) Import the main.R file to the project
 
